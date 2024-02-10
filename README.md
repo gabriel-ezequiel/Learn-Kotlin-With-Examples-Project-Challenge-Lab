@@ -1,10 +1,12 @@
-# Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
+# Completing the challenge
 
-Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
+## Learn Kotlin With Examples: Project Challenge (Lab)
 
-**A [DIO](https://web.dio.me) possui `Formacoes` incríveis que têm como objetivo oferecer um conjunto de `ConteudosEducacionais` voltados para uma stack tecnológica específica, preparando profissionais de TI para o mercado de trabalho. `Formacoes` possuem algumas características importantes, como `nome`, `nivel` e seus respectivos `conteudosEducacionais`. Além disso, tais experiências educacionais têm um comportamento relevante ao nosso domínio, definido pela capacidade de `matricular` um ou mais `Alunos`.**
+Project Challenge created to evaluate the technical content explored in the repository [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **In this context, we will abstract the following application domain:**
+
+**[DIO](https://web.dio.me) has incredible `Training` that aim to offer a set of `Educational Content` focused on a specific technological stack, preparing IT professionals for the job market. `Training` have some important characteristics, such as `name`, `level` and their respective `Educational content`. Furthermore, such educational experiences have behavior relevant to our domain, defined by the ability to `enroll` one or more `Students`.**
 
 
 ```kotlin
-TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
+TODO("Create a solution in Koltin abstracting this domain. The [desafio.kt] file will help you 😉")
 ```
